@@ -1,7 +1,8 @@
 # DJ with Arduino
 
 > This is a simple program to test MIDI protocol with Arduino. What was used:
-> Hardware:
+>
+>  Hardware:
 - _Arduino board_
 - _3x buttons_
 - _3x 10k resistors_
