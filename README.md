@@ -18,4 +18,4 @@ Hairless MIDI<->Serial Bridge is the easiest way to connect serial devices (like
 LoopBe1 is an internal MIDI device for transferring MIDI data between computer programs. Basically LoopBe1 is an "invisible cable" to connect a MIDI outport of an application to any other application´s MIDI inport.
 All MIDI data sent to the program´s output is channeled to the receiving applications in realtime.
 ### Mixxx - Free DJ Mixing
-Mixxx is free open-source software and entirely community-driven
+Mixxx is free open-source software and entirely community-driven.
